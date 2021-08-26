@@ -20,3 +20,15 @@ print_two_again("Zed","Shaw")
 print_one("First!") 
 print_none()
 
+#1. yes
+#2. yes
+#3. yes
+#4. yes
+#5. yes
+#6. yes
+#7. yes
+#8. yes
+#1. yes
+#2. yes
+#3. yes
+#4. yes
