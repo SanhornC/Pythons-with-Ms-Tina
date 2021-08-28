@@ -21,5 +21,10 @@ print("There are only", drivers, "drivers available.") # this will number of dri
 print("There will be", cars_not_driven, "empty cars today.") # this will print the number of extra cars
 print("We can transport", carpool_capacity, "people today.") # this will print the availible number for transportation
 print("We have", passengers, "to carpool today.") # this will print the number of passengers that uses the carpool
-print("We need to put about", average_passengers_per_car,
-      "in each car.") # this will print the average number of passengers in a car
+print("We need to put about", average_passengers_per_car,"in each car.") # this will print the average number of passengers in a car
+
+
+# study drills
+# 1. no, it isn't necessary
+# 2. float represents real numbers and are written with a decimal point dividing the integer and fractional parts.
+
