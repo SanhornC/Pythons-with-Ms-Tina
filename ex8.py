@@ -17,3 +17,4 @@ print(f.format(
     "Or a song about fear"
 ))
 # print the strings placed into f
+# both single quote and double quote have the same function, if one is inside the other, the one inside will be printed out
