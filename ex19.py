@@ -38,4 +38,15 @@ print ("And we can combine the two, variables and math:")
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 
 print("\n \n")
+
+# own design 10 times
 fuck(1)
+fuck(2)
+fuck(3)
+fuck(4)
+fuck(5)
+fuck(6)
+fuck(7)
+fuck(8)
+fuck(9)
+fuck(10)
