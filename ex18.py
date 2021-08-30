@@ -29,3 +29,8 @@ print_none()
 #7. yes
 #8. yes
 
+#1. yes
+#2. yes
+#3. yes
+#4. yes
+
