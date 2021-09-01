@@ -33,3 +33,10 @@ def print_first_and_last_sorted(sentence):
     words = sort_sentence(sentence)
     print_first_word(words)
     print_last_word(words)
+
+
+#Study drill
+#1 I understand
+#2 I tried 
+#3 I entered from ex25 import *
+#4 I tried
