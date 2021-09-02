@@ -36,12 +36,15 @@ if people == dogs:
 
 i = 99
 j = 199
+
+# Study drill 4
+
 if i < j:
     print("99 is smaller than 199")
 
 '''
 study drill 1: set conditions, if the conditions are met, then it will implement the followings
 study drill 2: or else it won't be able to run the code
-study drill 3: python will fail to determine what code to run
+study drill 3: python will fail to determine what code to run the code under the if statement
 study drill 5: if we change values in different variables, then the output will be changed
 '''
